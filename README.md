@@ -1,6 +1,9 @@
 # Demo
 You can visualize the proyect [here](https://react-movies-alkemy.herokuapp.com/)
 
+> Usuario: challenge@alkemy.org
+> Contraseña: react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
